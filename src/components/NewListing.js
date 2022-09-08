@@ -40,7 +40,7 @@ const NewListing = (props) => {
             </Container>
             {/* <div style={{ height: '100vh', width: '100%' }}>
                 <GoogleMapReact
-                    bootstrapURLKeys={{ key: "AIzaSyCS1s8ujoq9E7LxQuRKB9R0tYqlZdQiBmk" }}
+                    bootstrapURLKeys={{ key: "" }}
                 >
                 </GoogleMapReact>
             </div> */}
